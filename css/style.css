@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1){
-    background-image: url(/disponivel-na-app-store-botao-1.png);
+    background-image: url(disponivel-na-app-store-botao-1.png);
 }
 
 .app-download:nth-child(2){
-    background-image: url(/disponivel-google-play-badge-1.png);
+    background-image: url(disponivel-google-play-badge-1.png);
 }
 
 @media (max-width: 1024px){
